@@ -1,0 +1,4 @@
+.vscode
+Launcher.py
+*.cppcheck
+*.exe
